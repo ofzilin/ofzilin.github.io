@@ -1,0 +1,12 @@
+[submodule "themes/hextra"]
+	path = themes/hextra
+	url = https://github.com/imfing/hextra.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/cleanwhite"]
+	path = themes/cleanwhite
+	url = https://github.com/zhaohuabing/hugo-theme-cleanwhite.git
+[submodule "themes/doks"]
+	path = themes/doks
+	url = https://github.com/gethyas/doks.git

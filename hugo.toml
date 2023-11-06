@@ -1,0 +1,4 @@
+baseURL = 'https://ofzilin.github.io/'
+languageCode = 'en-us'
+title = "Zilin's Site"
+theme = 'hextra'
